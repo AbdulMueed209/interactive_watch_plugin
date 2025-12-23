@@ -1,0 +1,35 @@
+{
+  "name" : "Interactive Watch",
+  "version" : "1.0",
+  "description" : "It's a interactive watch, in whcih developer can do many enhancement related to UI furter while using this plugin. You can also change setting for different timezones or you can also use local timezone of browser.",
+  "keywords" : ["svg", "interactive", "watch", "ui", "timezone", "time"],
+  "homepage" : "https://github.com/AbdulMueed209/interactive_watch_plugin",
+  "bugs" : {
+    "url" : "https://github.com/AbdulMueed209/interactive_watch_plugin/issues",
+    "email" : "abdulmueed209@gmail.com"
+  },
+  "license" : "MIT",
+  "commercial" : "No",
+  "author" : {
+    "name" : "Abdul Mueed",
+    "email" : "abdulmueed209@gmail.com",
+    "url" : "https://www.linkedin.com/in/abdul-mueed-79128a226?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+	"donationUrl" : "https://buymeacoffee.com/abdulmueed512"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/AbdulMueed209/interactive_watch_plugin.git"
+  },
+ "oracle" : {
+    "versions" : ["23.2.0", "21.1.0", "19.1.0"],
+    "apex" : {
+      "versions" : ["24.2.11"],
+      "plugin" : {
+        "internalName" : "WATCH",
+        "type" : "Region",
+        "demo" : "https://oracleapex.com/ords/r/mueed0321/my-plugins/watch",
+        "previewImage" : "https://github.com/AbdulMueed209/interactive_watch_plugin/blob/main/assets/Capture.JPG?raw=true"
+      }
+    }
+  }
+}
