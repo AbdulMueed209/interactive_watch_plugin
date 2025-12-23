@@ -68,6 +68,9 @@ For timezone support, use standard IANA timezone identifiers (e.g., America/New_
 
 Customize the clock styles with CSS in the page template or region attributes.
 
+<img width="522" height="555" alt="image" src="https://github.com/user-attachments/assets/ae514ac0-28d3-4fe0-9f2b-8535ee9f34d0" />
+
+
 ❤️ Contributing
 
 Feel free to open issues or submit pull requests if you’d like to:
